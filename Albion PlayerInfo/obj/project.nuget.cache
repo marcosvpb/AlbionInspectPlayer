@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "215CB2LWPc3hATjYidpj5Hc9gic/M5UbL0X2+//SbtRZv+G3NQwmewg2BFvzMNFXHwjg3t+7+gKsHdtO+14qJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marcos\\source\\repos\\Albion PlayerInfo\\Albion PlayerInfo\\Albion PlayerInfo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marcos\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\Marcos\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

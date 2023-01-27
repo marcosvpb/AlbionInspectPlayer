@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Albion PlayerInfo": {
+      "commandName": "Project",
+      "hotReloadEnabled": false
+    }
+  }
+}

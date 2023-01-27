@@ -1,0 +1,20 @@
+C:\Users\Marcos\source\repos\Albion PlayerInfo\Albion PlayerInfo\bin\Debug\net6.0-windows\Albion PlayerInfo.exe
+C:\Users\Marcos\source\repos\Albion PlayerInfo\Albion PlayerInfo\bin\Debug\net6.0-windows\Albion PlayerInfo.deps.json
+C:\Users\Marcos\source\repos\Albion PlayerInfo\Albion PlayerInfo\bin\Debug\net6.0-windows\Albion PlayerInfo.runtimeconfig.json
+C:\Users\Marcos\source\repos\Albion PlayerInfo\Albion PlayerInfo\bin\Debug\net6.0-windows\Albion PlayerInfo.dll
+C:\Users\Marcos\source\repos\Albion PlayerInfo\Albion PlayerInfo\bin\Debug\net6.0-windows\Albion PlayerInfo.pdb
+C:\Users\Marcos\source\repos\Albion PlayerInfo\Albion PlayerInfo\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Marcos\source\repos\Albion PlayerInfo\Albion PlayerInfo\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\Marcos\source\repos\Albion PlayerInfo\Albion PlayerInfo\obj\Debug\net6.0-windows\Albion PlayerInfo.csproj.AssemblyReference.cache
+C:\Users\Marcos\source\repos\Albion PlayerInfo\Albion PlayerInfo\obj\Debug\net6.0-windows\Albion_PlayerInfo.Form1.resources
+C:\Users\Marcos\source\repos\Albion PlayerInfo\Albion PlayerInfo\obj\Debug\net6.0-windows\Albion PlayerInfo.csproj.GenerateResource.cache
+C:\Users\Marcos\source\repos\Albion PlayerInfo\Albion PlayerInfo\obj\Debug\net6.0-windows\Albion PlayerInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos\source\repos\Albion PlayerInfo\Albion PlayerInfo\obj\Debug\net6.0-windows\Albion PlayerInfo.AssemblyInfoInputs.cache
+C:\Users\Marcos\source\repos\Albion PlayerInfo\Albion PlayerInfo\obj\Debug\net6.0-windows\Albion PlayerInfo.AssemblyInfo.cs
+C:\Users\Marcos\source\repos\Albion PlayerInfo\Albion PlayerInfo\obj\Debug\net6.0-windows\Albion PlayerInfo.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\Albion PlayerInfo\Albion PlayerInfo\obj\Debug\net6.0-windows\Albion PlayerInfo.csproj.CopyComplete
+C:\Users\Marcos\source\repos\Albion PlayerInfo\Albion PlayerInfo\obj\Debug\net6.0-windows\Albion PlayerInfo.dll
+C:\Users\Marcos\source\repos\Albion PlayerInfo\Albion PlayerInfo\obj\Debug\net6.0-windows\refint\Albion PlayerInfo.dll
+C:\Users\Marcos\source\repos\Albion PlayerInfo\Albion PlayerInfo\obj\Debug\net6.0-windows\Albion PlayerInfo.pdb
+C:\Users\Marcos\source\repos\Albion PlayerInfo\Albion PlayerInfo\obj\Debug\net6.0-windows\Albion PlayerInfo.genruntimeconfig.cache
+C:\Users\Marcos\source\repos\Albion PlayerInfo\Albion PlayerInfo\obj\Debug\net6.0-windows\ref\Albion PlayerInfo.dll
